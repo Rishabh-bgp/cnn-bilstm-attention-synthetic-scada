@@ -10,7 +10,7 @@ Hybrid deep learning (1-D CNN + bidirectional LSTM + soft attention) for next-ho
 
 **Live demo:** https://rishabh-bgp.github.io/cnn-bilstm-attention-synthetic-scada/ (runs entirely in your browser on synthetic data)
 
-**About the demo design.** The page uses a Daoist, Chinese-ink style: crimson, charcoal and navy with gold accents, brush-style headings in the Ma Shan Zheng font, and charts drawn in gold, red and ink. Each repository has its own trigram. This one is **巽 ☴ (Xùn, Wind)**. 巽 (Xùn) is the trigram of wind: gentle, steady and reaching everywhere. It fits a model that learns from the wind itself. The red seal stamp (印) carries the initials RA, the faint taiji and the row of eight Bagua trigrams stand for balance and change, the cloud scrolls stand for moving air, and the vertical motto 風行天下 means "The wind moves through all under heaven". The design is purely decorative. Everything is computed by the model shown, on synthetic data.
+**About the demo design.** The page uses a Daoist, Chinese-ink style: crimson, charcoal and navy with gold accents, brush-style headings in the Ma Shan Zheng font, and charts drawn in gold, red and ink. Each repository has its own trigram. This one is **巽 ☴ (Xùn, Wind)**. 巽 (Xùn) is the trigram of wind: gentle, steady and reaching everywhere. It fits a model that learns from the wind itself. The red seal stamp (印) carries the initials RA, the faint taiji and the row of eight Bagua trigrams stand for balance and change, and the vertical motto 風行天下 means "The wind moves through all under heaven". The design is purely decorative. Everything is computed by the model shown, on synthetic data.
 
 ## What this repository implements
 
