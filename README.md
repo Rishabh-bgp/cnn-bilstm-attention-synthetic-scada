@@ -205,6 +205,7 @@ This repository is part of my M.Tech thesis work.
 - [Predicting-Hot-Events-in-the-Early-Period-through-Bayesian-Model-for-Social-Networks](https://github.com/Rishabh-bgp/Predicting-Hot-Events-in-the-Early-Period-through-Bayesian-Model-for-Social-Networks)
 - [beed-ml-study](https://github.com/Rishabh-bgp/beed-ml-study)
 - [boston-house-price-prediction](https://github.com/Rishabh-bgp/boston-house-price-prediction)
+- [brain-tumor-mri-classification](https://github.com/Rishabh-bgp/brain-tumor-mri-classification) · [live demo](https://rishabh-bgp.github.io/brain-tumor-mri-classification/)
 - [building-a-virtual-cell-in-python](https://github.com/Rishabh-bgp/building-a-virtual-cell-in-python)
 - [california-house-price-prediction](https://github.com/Rishabh-bgp/california-house-price-prediction)
 - [cobratate](https://github.com/Rishabh-bgp/cobratate)
